@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head><title>Membership</title><link rel="stylesheet" type="text/css" href="stylesheet.css" >
+</head>
+<body>
+    <img src="https://farm9.staticflickr.com/8665/15881674614_a60c0fe941.jpg" width="128" height="128"/> 
+    <div class="container">
+    <h1>Real Women Tech Membership</h1>
+    <p>Click to contact us <a href="#Contact Info">Contact Info</a>
+    </p>
+    <div class="mini">
+    <p>Our members are a growing group of women of all ages that are involved in or interested in the technology field! Beginners and Pros are welcome. By networking with other women who have worked in the technological industry, we also help the next generations of women who...</p>
+        </div>
+    
+        <h2>Benefits</h2>
+        <p>
+            <ul>
+                <li>Network with women with all types of technological backgrounds.</li>
+                <li>Get help with ...</li>
+                <li>Be a mentor for young women who are interested in technology.</li>
+                <li>Stay up to date with the latest news and information in.</li>
+            </ul>
+            </p>
+        </div>
+        <h2>Membership Prices:</h2>
+            <ol>
+                <li>Basic Membership: Free</li>
+                <li>Silver Membership: Free</li>
+                <li>Gold Membership: Free</li>
+                <li>Lifetime Membership</li>
+                
+            </ol>
+        <br>
+        <br>
+        <br>
+        <h3>Follow us on <a href="https://www.facebook.com">Facebook</a>
+        <a href="https://www.twitter.com">Twitter</a></h3>
+       
+     
+        <br>
+        <br>
+        <br>
+        
+        
+    
+    
+    
+        
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <p id="Contact Info">
+    <h2>For more information about our mission please contact:</h2>
+    
+    <p>
+    <strong>M. Anderson</strong>
+    <br>
+    "President, Co-Founder"
+    <br>
+    "m.anderson@gmail.com"
+    <br>
+    <br>
+    <strong>P. Simpson</strong>
+    <br>
+    "Vice-President, Co-Founder"
+    <br>
+    "p.simpson@gmail.com"
+    </p>
+        
+    </p>
+    
+    
+
+    
+</body>
+
+
+</html>

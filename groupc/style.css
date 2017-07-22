@@ -1,0 +1,32 @@
+.jumbotron{
+    background-image: url()
+}
+.mission{
+    position: relative;
+    left: 20px;
+    top:20px;
+    margin: 40px;
+    float:left;
+    width: 33%;
+    text-align: left;
+    clear:left;
+}
+.display-3{
+    width:100%;
+    text-align:left;
+    clear:left;
+}
+
+
+h1{
+font-size: 50px;
+    position: absolute;
+}
+    
+.containerpb{
+    padding:1em;
+    color:aqua;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
