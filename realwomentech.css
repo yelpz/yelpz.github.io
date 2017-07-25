@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: #EC7063;
+}
+
+
+.container {width: 100%;
+           
+}
+
+.header {background-color: #EC7063;
+         color: black;
+         text-align: center;
+         clear: both;
+        
+}
+
+.nav li {float: left;
+         clear: both;
+         margin: 0%;
+         width: 25%;
+        
+}
+
+.herstory {float: right;
+           clear: both;
+           margin: 0%;
+           width: 75%;
+           
+}
+
+.footer {background-color: #EC7063;
+         color: black;
+         text-align: center;
+         clear: both;
+         padding: 1em;

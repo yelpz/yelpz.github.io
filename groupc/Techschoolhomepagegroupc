@@ -1,0 +1,29 @@
+<! Doctype html>
+    <head>Tech School </head>
+    <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+    <body>
+    <div class="">
+    <nav>
+        <ul>
+            <li><a href="Membership">Homepage</a></li>
+            <li><a href_"events"></a>events</li>
+            <li><a href_"Jobfairs">Job fairs</a></li>
+            <li><a href_"Get Started ">Get Started</a></li>
+            <li><a href="Welcome">Welcome</a></li>
+        </ul>
+    </nav>
+    </div>s
+    
+<video width="300" height="150 >
+    <source src="<a href="https://www.computerhope.com/issues/floppy2.avi">Floppy drive robot</a>"/>
+
+
+
+    
+    
+    
+    
+    
+    </body>
+    
+    </html>

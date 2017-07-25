@@ -1,0 +1,26 @@
+body {
+    background-image: url('samuel-fyfe-178144.jpg');
+    background-repeat: no-repeat;
+    max-width: 980px;
+}
+header {
+    text-align: center;
+    color: #ff4dd2;
+}
+ul {
+   color: #ff4dd2; 
+}    
+
+h1, h2 {
+ color: #ff4dd2;
+}
+p {
+ color: #ff66cc;
+ 
+h1, h2 {
+    text-align: center;
+}
+
+ol{
+  list-style-type: lower-roman;
+}
