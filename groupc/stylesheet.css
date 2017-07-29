@@ -1,55 +1,33 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Playfair+Display');
-@import url('https://fonts.googleapis.com/css?family=Fanwood+Text|Quattrocento');
-.containermem {
-    margin: 16px;
-    font-family: 'Fanwood', serif;
-    font-family: 'Quattrocento', serif;
-    color: #4d4d4d;
-    padding: 16px;
-    text-align: center;
-}
-.navbars {
-    display: inline-block;
-}
-.minititle {
-    font-size: 18px;
-    width: 75%;
+
+
+h1{
+ font-size:24px;
+ }
+article{
+    text-align:left;
+    font-size:44px;
     
 }
-.minipara {
-    font-size: 18px;
-    text-align: justify;
-}
-.benefits {
-    text-align: left;
-}
-.memberprices {
-    text-align: left;
-}
 
-.fa{
-    padding:20px;
+
+
+
+a{
+    padding:30px;
     font-size:30px;
     width:50px;
-    text-align:center;
-    text-decoration: none;
+    text-align:left;
+    text-decoration:5px 2px;
 }
-
-
-}
-
     
-.jumbotron{
-    background-image: url()
-}
 .mini {text-align: center;
 
 }
 .mission{
     position: relative;
     left: 20px;
-    top:20px;
-    margin: 40px;
+s    margin: 40px;
     float:left;
     width: 33%;
     text-align: left;
@@ -61,14 +39,12 @@
     clear:left;
 }
 
-
 h1{
 font-size: 50px;
     position: absolute;
 }
-    
 .containerpb{
-    padding:1em;
+    padding:10em;
     color:aqua;
     background-color: black;
     clear: left;

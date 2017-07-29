@@ -11,16 +11,25 @@ ul {
    color: #ff4dd2; 
 }    
 
-h1, h2 {
+h1, h2, h3 {
  color: #ff4dd2;
+ text-align: center;
 }
 p {
- color: #ff66cc;
- 
-h1, h2 {
-    text-align: center;
-}
+ color: #ff66cc;}
 
 ol{
   list-style-type: lower-roman;
 }
+footer {
+    text-align: center;
+    color: #ff4dd2;
+}
+
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+

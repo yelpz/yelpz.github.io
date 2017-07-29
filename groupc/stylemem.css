@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Playfair+Display');
+
+body {
+    font-family: "Josefin+Sans", "Playfair+Display", "sans serif";
+}
+.containermem {
+    width:100%;
+    background-color:  #ff99aa;
+    color: #4d4d4d;
+    
+    text-align: center;
+}
+.navbars {
+    float: left;
+    clear: both;
+   
+}
+
+.nav1{
+    text-decoration:none;
+    display:inline-block;
+    color:#ffe66a;
+    
+}
+.nav li {float: left;
+         clear: both;
+         margin: 0%;
+         width: 25%;
+         list-style-type: none;
+         font-size: large;
+         background-color:  #ff99aa;
+}
+.minititle {
+    font-size: 18px;
+    width: 75%;
+    
+}
+.minipara {
+    font-size: 18px;
+    text-align: justify;
+}
+.benefits {
+    text-align: left;
+}
+.memberprices {
+    text-align: left;
+}
