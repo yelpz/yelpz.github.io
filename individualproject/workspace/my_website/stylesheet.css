@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Proza+Libre');
+html {
+    font-size: 16px
+}
+/*remember to add generic font*/
+body {
+    background-color: #ffff99;
+    font-family: Cantarell, 'Proza+Libre', Arial, sans serif;
+    font-size: 1rem;
+    color: #333333;
+}
+
+.containermain {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: nowrap;
+    }
+    /*wrap not working*/
+    
+.containerfacts {
+    display: flex;
+    flex-direction: column;
+}
+.containersafety {
+    display: flex;
+    flex-direction: column;
+}
+
+.minicontents {
+    display: inline-block;
+    list-style-type: none;
+}
+li a {
+    display: inline-block;
+    list-style-type: none;
+    }
+
+    /*span border same color as h1,h3*/
+span {
+    border: 2px #ff3300 solid;
+    border-radius: 5px;
+    border-width: thin;
+}
+.list {
+    text-align: left;
+}
+a:link {
+    color: black; 
+    background-color: transparent; 
+    text-decoration: underline;
+}
+
+img {
+    text-align: center;
+    
+    }
+h1, h3 {
+    text-align: center;
+    color: #ff3300;
+}
+
+footer {
+    color: #ff0000;
+}
+p {
+    text-align: left;
+}
